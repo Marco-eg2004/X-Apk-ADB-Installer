@@ -1,6 +1,9 @@
 # X-Apk-ADB-Installer
 This program automates the process of installing APK and XAPK files on an Android emulator or device using ADB
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+
 ## Usage Guide for the APK/XAPK Installer
 
 ### How to Use:
